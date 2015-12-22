@@ -14,7 +14,7 @@ matrix:
 # faster builds on new travis setup not using sudo
 sudo: false
 
-# cache vendor dirs
+# cache vendor dirsxyz
 cache:
   directories:
     - $HOME/.composer/cache
